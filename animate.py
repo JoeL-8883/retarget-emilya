@@ -4,6 +4,7 @@ import sys
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 import numpy as np
+from util import check_file_shape, is_filetype
 
 def create_animation(motion, filename, fps=60, frame_skip=2):
     # Create figure and 3D axis
@@ -58,12 +59,12 @@ def is_npy(file, filename):
 
 parser = argparse.ArgumentParser(
         description="Enter file/folder directory for conversion.")
-parser.add_argument("-f", "--filename", type=str, help='.npy file for conversion.')
-parser.add_argument("-d", "--foldername", type=str, help='Folder of .npy files for conversion.')
+parser.add_argument("-f", "--filename", type=str, help='.npy file for animation.')
+parser.add_argument("-d", "--dirname", type=str, help='Folder of .npy files for animation.')
 args = parser.parse_args()
 
 file_in = args.filename
-folder_in = args.foldername
+folder_in = args.dirname
 
 if file_in:
     filename = file_in.split("/")[-1][:-4]
@@ -71,7 +72,7 @@ if file_in:
         print("Error: file {} not found.".format(file_in))
         sys.exit(0)
 
-    if is_npy(file_in, filename):
+    if is_filetype(file_in, filename, 'npy'):
         # Get the numpy array of the directory
         file_in = np.load(file_in)
         check_file_shape(file_in)
@@ -88,7 +89,7 @@ elif folder_in:
         filename = file.split("/")[-1][:-4]
         file_dir = os.path.join(folder_in, file)
 
-        if is_npy(file_dir, filename):
+        if is_filetype(file_dir, filename, 'npy'):
             file_in = np.load(file_dir)
             check_file_shape(file_in)
             create_animation(file_in, filename, fps=60, frame_skip=2)

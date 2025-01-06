@@ -22,7 +22,7 @@ dir_in = args.dirname # Path to directory
 def process_arr(arr):
     to_delete = [0, 5, 10, 19, 24, 27]
     # Scale and normalise
-    arr = scale_distances(arr)
+    arr = scale_distances(arr, 6.5)
     arr = normalise(arr)
 
     # Delete joints
