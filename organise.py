@@ -5,8 +5,7 @@ import sys
 import random
 
 '''
-Organises the EMILYA dataset so it can be more easily converted then fitted to the 
-HumanML3D data structure. This can be helpful when generating generic descirptions of the motions.
+Copy all the BvH files into a single directory, and write captions for each motion.
 '''
 
 parser = argparse.ArgumentParser(
@@ -25,12 +24,12 @@ elif not input_dir.endswith('All_BvH_Files'):
 output_dir_raw = os.path.join(outputdir, 'output', 'BvH_files')
 if not os.path.exists(output_dir_raw):
     os.makedirs(output_dir_raw)
+
 counter = 1
 
-# Create captions directory
+# Create captions (descriptions for each motion) and texts (generic descriptions of each type of motion)
 captions_dir = os.path.join(outputdir, 'captions')
-if not os.path.exists(captions_dir):
-    os.makedirs(captions_dir)
+texts_dir = os.path.join(outputdir, 'texts')
 
 # Get the motions in the input directory
 emilya_motions = os.listdir(input_dir) # the different types of motions, i.e. SW
@@ -70,9 +69,11 @@ for motion in emilya_motions:
                         shutil.copy(bvh_file, final_destination_raw)
                         
                         ''' Create captions each motion '''
-                        caption_dir = os.path.join(emotion_dir, 'captions.txt')
-                        
-                        with open(caption_dir, 'r') as f:
+                        # Get location of relevant descriptions
+                        emotion_caption = motion+emotion+'.txt' # i.e. SWangry.txt
+                        text_dir = os.path.join(texts_dir, emotion_caption)
+                            
+                        with open(text_dir, 'r') as f:
                             lines = f.readlines()
 
                         captions = []
