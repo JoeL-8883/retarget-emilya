@@ -1,0 +1,6 @@
+a panicked person picks up something.#a/DET panicked/ADJ person/NOUN pick/VERB up/ADP something/PRON#0.0#0.0
+someone lifts an object panickedly.#someone/PRON lift/VERB an/DET object/NOUN panickedly/ADV#0.0#0.0
+a person picks something up panickedly.#a/DET person/NOUN pick/VERB something/PRON up/ADP panickedly/ADV#0.0#0.0
+a fearful person picks up something.#a/DET fearful/ADJ person/NOUN pick/VERB up/ADP something/PRON#0.0#0.0
+someone lifts an object fearfully.#someone/PRON lift/VERB an/DET object/NOUN fearfully/ADV#0.0#0.0
+a person picks something up fearfully.#a/DET person/NOUN pick/VERB something/PRON up/ADP fearfully/ADV#0.0#0.0

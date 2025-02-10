@@ -1,0 +1,3 @@
+someone throws something.#someone/PRON throw/VERB something/PRON#0.0#0.0
+a person throws an object.#a/DET person/NOUN throw/VERB an/DET object/NOUN#0.0#0.0
+someone tosses something.#someone/PRON toss/VERB something/PRON#0.0#0.0

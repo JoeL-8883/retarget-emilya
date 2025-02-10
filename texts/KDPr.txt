@@ -1,0 +1,3 @@
+a proud person knocks.#a/DET proud/ADJ person/NOUN knock/VERB#0.0#0.0
+a person knocks proudly.#a/DET person/NOUN knock/VERB proudly/ADV#0.0#0.0
+someone knocks proudly.#someone/PRON knock/VERB proudly/ADV#0.0#0.0

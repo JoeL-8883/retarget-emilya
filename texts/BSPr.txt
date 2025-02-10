@@ -1,0 +1,3 @@
+someone is being seated proudly.#someone/PRON is/AUX being/AUX seat/VERB proudly/ADV#0.0#0.0
+someone is sitting down proudly.#someone/PRON is/AUX sit/VERB down/ADV proudly/ADV#0.0#0.0
+a proud person is being seated.#a/DET proud/ADJ person/NOUN is/AUX being/AUX seat/VERB#0.0#0.0

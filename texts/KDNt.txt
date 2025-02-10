@@ -1,0 +1,3 @@
+a person knocks.#a/DET person/NOUN knock/VERB#0.0#0.0
+someone knocks.#someone/PRON knock/VERB#0.0#0.0
+a person is knocking.#a/DET person/NOUN is/AUX knock/VERB#0.0#0.0

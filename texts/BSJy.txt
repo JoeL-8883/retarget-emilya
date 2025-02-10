@@ -1,0 +1,3 @@
+someone is being seated joyfully.#someone/PRON is/AUX being/AUX seat/VERB joyfully/ADV#0.0#0.0
+someone is sitting down joyfully.#someone/PRON is/AUX sit/VERB down/ADV joyfully/ADV#0.0#0.0
+a joyful person is being seated.#a/DET joyful/ADJ person/NOUN is/AUX being/AUX seat/VERB#0.0#0.0

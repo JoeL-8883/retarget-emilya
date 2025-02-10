@@ -1,0 +1,5 @@
+a proud person sits.#a/DET proud/ADJ person/NOUN sit/VERB#0.0#0.0
+someone sits down proudly.#someone/PRON sit/VERB down/ADV proudly/ADV#0.0#0.0
+someone takes a seat proudly.#someone/PRON take/VERB a/DET seat/NOUN proudly/ADV#0.0#0.0
+a person is sitting proudly.#a/DET person/NOUN is/AUX sit/VERB proudly/ADV#0.0#0.0
+someone is sitting proudly.#someone/PRON is/AUX sit/VERB proudly/ADV#0.0#0.0

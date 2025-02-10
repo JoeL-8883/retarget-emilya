@@ -1,0 +1,3 @@
+a sad person moves books from one side to another.#a/DET sad/ADJ person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET#0.0#0.0
+a person moves books from one side to another sadly.#a/DET person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET sadly/ADV#0.0#0.0
+someone moves books from one side to another sadly.#someone/PRON move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET sadly/ADV#0.0#0.0

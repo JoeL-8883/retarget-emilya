@@ -1,0 +1,4 @@
+a sad person turns around.#a/DET sad/ADJ person/NOUN turn/VERB around/ADV#0.0#0.0
+a person turns around sadly.#a/DET person/NOUN turn/VERB around/ADV sadly/ADV#0.0#0.0
+someone turns to face the other way sadly.#someone/PRON turn/VERB to/ADP face/VERB the/DET other/ADJ way/NOUN sadly/ADV#0.0#0.0
+a person changes direction sadly.#a/DET person/NOUN change/VERB direction/NOUN sadly/ADV#0.0#0.0

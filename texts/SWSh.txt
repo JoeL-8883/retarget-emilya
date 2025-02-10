@@ -1,0 +1,5 @@
+a person is walking shamefully.#a/DET person/NOUN is/AUX walk/VERB shamefully/ADV#0.0#0.0
+someone is taking a walk shamefully.#someone/PRON is/AUX take/VERB a/DET walk/NOUN shamefully/ADV#0.0#0.0
+someone is walking shamefully.#someone/PRON is/AUX walk/VERB shamefully/ADV#0.0#0.0
+a ashamed person is walking.#a/DET ashamed/ADJ person/NOUN is/AUX walk/VERB#0.0#0.0
+a ashamed person walks.#a/DET ashamed/ADJ person/NOUN walk/VERB#0.0#0.0

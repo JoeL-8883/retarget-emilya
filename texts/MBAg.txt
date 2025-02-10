@@ -1,0 +1,3 @@
+an angry person moves books from one side to another.#an/DET angry/ADJ person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET#0.0#0.0
+a person moves books from one side to another angrily.#a/DET person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET angrily/ADV#0.0#0.0
+someone moves books from one side to another angrily.#someone/PRON move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET angrily/ADV#0.0#0.0

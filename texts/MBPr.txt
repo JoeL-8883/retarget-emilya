@@ -1,0 +1,3 @@
+a proud person moves books from one side to another.#a/DET proud/ADJ person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET#0.0#0.0
+a person moves books from one side to another proudly.#a/DET person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET proudly/ADV#0.0#0.0
+someone moves books from one side to another proudly.#someone/PRON move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET proudly/ADV#0.0#0.0

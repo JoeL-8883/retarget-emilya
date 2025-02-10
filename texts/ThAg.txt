@@ -1,0 +1,3 @@
+someone throws something angrily.#someone/PRON throw/VERB something/PRON angrily/ADV#0.0#0.0
+an angry person throws an object.#an/DET angry/ADJ person/NOUN throw/VERB an/DET object/NOUN#0.0#0.0
+someone tosses something angrily.#someone/PRON toss/VERB something/PRON angrily/ADV#0.0#0.0

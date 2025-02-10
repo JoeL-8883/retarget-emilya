@@ -1,0 +1,4 @@
+an anxious person turns around.#an/DET anxious/ADJ person/NOUN turn/VERB around/ADV#0.0#0.0
+a person turns around anxiously.#a/DET person/NOUN turn/VERB around/ADV anxiously/ADV#0.0#0.0
+someone turns to face the other way anxiously.#someone/PRON turn/VERB to/ADP face/VERB the/DET other/ADJ way/NOUN anxiously/ADV#0.0#0.0
+a person changes direction anxiously.#a/DET person/NOUN change/VERB direction/NOUN anxiously/ADV#0.0#0.0

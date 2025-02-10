@@ -1,0 +1,5 @@
+an ashamed person sits.#a/DET ashamed/ADJ person/NOUN sit/VERB#0.0#0.0
+someone sits down shamefully.#someone/PRON sit/VERB down/ADV shamefully/ADV#0.0#0.0
+someone takes a seat shamefully.#someone/PRON take/VERB a/DET seat/NOUN shamefully/ADV#0.0#0.0
+a person is sitting shamefully.#a/DET person/NOUN is/AUX sit/VERB shamefully/ADV#0.0#0.0
+someone is sitting shamefully.#someone/PRON is/AUX sit/VERB shamefully/ADV#0.0#0.0

@@ -1,0 +1,4 @@
+an angry person turns around.#an/DET angry/ADJ person/NOUN turn/VERB around/ADV#0.0#0.0
+a person turns around angrily.#a/DET person/NOUN turn/VERB around/ADV angrily/ADV#0.0#0.0
+someone turns to face the other way angrily.#someone/PRON turn/VERB to/ADP face/VERB the/DET other/ADJ way/NOUN angrily/ADV#0.0#0.0
+a person changes direction angrily.#a/DET person/NOUN change/VERB direction/NOUN angrily/ADV#0.0#0.0

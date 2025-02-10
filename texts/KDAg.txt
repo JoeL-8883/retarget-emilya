@@ -1,0 +1,3 @@
+an angry person knocks.#an/DET angry/ADJ person/NOUN knock/VERB#0.0#0.0
+a person knocks angrily.#a/DET person/NOUN knock/VERB angrily/ADV#0.0#0.0
+someone knocks angrily.#someone/PRON knock/VERB angrily/ADV#0.0#0.0

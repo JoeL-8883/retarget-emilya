@@ -1,0 +1,6 @@
+someone throws something panickedly.#someone/PRON throw/VERB something/PRON panickedly/ADV#0.0#0.0
+a panicked person throws an object.#a/DET panicked/ADJ person/NOUN throw/VERB an/DET object/NOUN#0.0#0.0
+someone tosses something panickedly.#someone/PRON toss/VERB something/PRON panickedly/ADV#0.0#0.0
+someone throws something fearfully.#someone/PRON throw/VERB something/PRON fearfully/ADV#0.0#0.0
+a fearful person throws an object.#a/DET fearful/ADJ person/NOUN throw/VERB an/DET object/NOUN#0.0#0.0
+someone tosses something fearfully.#someone/PRON toss/VERB something/PRON fearfully/ADV#0.0#0.0
