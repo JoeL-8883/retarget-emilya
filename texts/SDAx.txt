@@ -1,0 +1,5 @@
+an anxious person sits.#an/DET anxious/ADJ person/NOUN sit/VERB#0.0#0.0
+someone sits down anxiously.#someone/PRON sit/VERB down/ADV anxiously/ADV#0.0#0.0
+someone takes a seat anxiously.#someone/PRON take/VERB a/DET seat/NOUN anxiously/ADV#0.0#0.0
+a person is sitting anxiously.#a/DET person/NOUN is/AUX sit/VERB anxiously/ADV#0.0#0.0
+someone is sitting anxiously.#someone/PRON is/AUX sit/VERB anxiously/ADV#0.0#0.0

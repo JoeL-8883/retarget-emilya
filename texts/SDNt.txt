@@ -1,0 +1,6 @@
+a person sits.#a/DET person/NOUN sit/VERB#0.0#0.0
+a person sits down.#a/DET person/NOUN sit/VERB down/ADV#0.0#0.0
+someone sits down.#someone/PRON sit/VERB down/ADV#0.0#0.0
+someone takes a seat.#someone/PRON take/VERB a/DET seat/NOUN#0.0#0.0
+a person is sitting.#a/DET person/NOUN is/AUX sit/VERB#0.0#0.0
+someone is sitting.#someone/PRON is/AUX sit/VERB#0.0#0.0

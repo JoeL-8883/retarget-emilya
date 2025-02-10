@@ -1,0 +1,3 @@
+someone throws something joyfully.#someone/PRON throw/VERB something/PRON joyfully/ADV#0.0#0.0
+a joyful person throws an object.#a/DET joyful/ADJ person/NOUN throw/VERB an/DET object/NOUN#0.0#0.0
+someone tosses something joyfully.#someone/PRON toss/VERB something/PRON joyfully/ADV#0.0#0.0

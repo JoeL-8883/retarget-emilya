@@ -1,0 +1,5 @@
+an angry person sits.#an/DET angry/ADJ person/NOUN sit/VERB#0.0#0.0
+someone sits down angrily.#someone/PRON sit/VERB down/ADV angrily/ADV#0.0#0.0
+someone takes a seat angrily.#someone/PRON take/VERB a/DET seat/NOUN angrily/ADV#0.0#0.0
+a person is sitting angrily.#a/DET person/NOUN is/AUX sit/VERB angrily/ADV#0.0#0.0
+someone is sitting angrily.#someone/PRON is/AUX sit/VERB angrily/ADV#0.0#0.0

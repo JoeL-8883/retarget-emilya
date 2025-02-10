@@ -1,0 +1,4 @@
+a joyful person turns around.#a/DET joyful/ADJ person/NOUN turn/VERB around/ADV#0.0#0.0
+a person turns around joyfully.#a/DET person/NOUN turn/VERB around/ADV joyfully/ADV#0.0#0.0
+someone turns to face the other way joyfully.#someone/PRON turn/VERB to/ADP face/VERB the/DET other/ADJ way/NOUN joyfully/ADV#0.0#0.0
+a person changes direction joyfully.#a/DET person/NOUN change/VERB direction/NOUN joyfully/ADV#0.0#0.0

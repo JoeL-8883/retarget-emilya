@@ -1,0 +1,6 @@
+a proud person is walking with something in their hand.#a/DET proud/ADJ person/NOUN is/AUX walk/VERB with/ADP something/PRON in/ADP their/DET hand/NOUN#0.0#0.0
+a person is walking proudly with something in their hand.#a/DET person/NOUN is/AUX walk/VERB proudly/ADV with/ADP something/PRON in/ADP their/DET hand/NOUN#0.0#0.0
+a proud person is walking whilst holding something.#a/DET proud/ADJ person/NOUN is/AUX walk/VERB whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+a person walks proudly whilst holding something.#a/DET person/NOUN walk/VERB proudly/ADV whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+someone is walking proudly whilst holding something.#someone/PRON is/AUX walk/VERB proudly/ADV whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+someone proud holding something walks.#someone/PRON proud/ADJ hold/VERB something/PRON walk/VERB#0.0#0.0

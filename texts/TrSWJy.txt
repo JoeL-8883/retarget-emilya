@@ -1,0 +1,3 @@
+a joyful person walks then turns around.#a/DET joyful/ADJ person/NOUN walk/VERB then/ADV turn/VERB around/ADV#0.0#0.0
+someone walks joyfully forward and then turns back.#someone/PRON walk/VERB joyfully/ADV forward/ADV and/CCONJ then/ADV turn/VERB back/ADV#0.0#0.0
+a joyful person moves ahead before turning around.#a/DET joyful/ADJ person/NOUN move/VERB ahead/ADV before/ADP turn/VERB around/ADV#0.0#0.0

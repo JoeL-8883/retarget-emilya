@@ -1,0 +1,6 @@
+an anxious person is walking with something in their hand.#an/DET anxious/ADJ person/NOUN is/AUX walk/VERB with/ADP something/PRON in/ADP their/DET hand/NOUN#0.0#0.0
+a person is walking anxiously with something in their hand.#a/DET person/NOUN is/AUX walk/VERB anxiously/ADV with/ADP something/PRON in/ADP their/DET hand/NOUN#0.0#0.0
+an anxious person is walking whilst holding something.#an/DET anxious/ADJ person/NOUN is/AUX walk/VERB whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+a person walks anxiously whilst holding something.#a/DET person/NOUN walk/VERB anxiously/ADV whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+someone is walking anxiously whilst holding something.#someone/PRON is/AUX walk/VERB anxiously/ADV whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+someone anxious holding something walks.#someone/PRON anxious/ADJ hold/VERB something/PRON walk/VERB#0.0#0.0

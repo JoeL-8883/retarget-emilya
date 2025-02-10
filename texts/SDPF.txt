@@ -1,0 +1,10 @@
+a panicked person sits.#a/DET panicked/ADJ person/NOUN sit/VERB#0.0#0.0
+someone sits down panickedly.#someone/PRON sit/VERB down/ADV panickedly/ADV#0.0#0.0
+someone takes a seat panickedly.#someone/PRON take/VERB a/DET seat/NOUN panickedly/ADV#0.0#0.0
+a person is sitting panickedly.#a/DET person/NOUN is/AUX sit/VERB panickedly/ADV#0.0#0.0
+someone is sitting panickedly.#someone/PRON is/AUX sit/VERB panickedly/ADV#0.0#0.0
+a fearful person sits.#a/DET fearful/ADJ person/NOUN sit/VERB#0.0#0.0
+someone sits down fearfully.#someone/PRON sit/VERB down/ADV fearfully/ADV#0.0#0.0
+someone takes a seat fearfully.#someone/PRON take/VERB a/DET seat/NOUN fearfully/ADV#0.0#0.0
+a person is sitting fearfully.#a/DET person/NOUN is/AUX sit/VERB fearfully/ADV#0.0#0.0
+someone is sitting fearfully.#someone/PRON is/AUX sit/VERB fearfully/ADV#0.0#0.0

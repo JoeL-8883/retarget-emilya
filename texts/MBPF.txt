@@ -1,0 +1,6 @@
+a panicked person moves books from one side to another.#a/DET panicked/ADJ person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET#0.0#0.0
+a person moves books from one side to another panickedly.#a/DET person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET panickedly/ADV#0.0#0.0
+someone moves books from one side to another panickedly.#someone/PRON move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET panickedly/ADV#0.0#0.0
+a fearful person moves books from one side to another.#a/DET fearful/ADJ person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET#0.0#0.0
+a person moves books from one side to another fearfully.#a/DET person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET fearfully/ADV#0.0#0.0
+someone moves books from one side to another fearfully.#someone/PRON move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET fearfully/ADV#0.0#0.0

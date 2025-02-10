@@ -1,0 +1,4 @@
+a proud person turns around.#a/DET proud/ADJ person/NOUN turn/VERB around/ADV#0.0#0.0
+a person turns around proudly.#a/DET person/NOUN turn/VERB around/ADV proudly/ADV#0.0#0.0
+someone turns to face the other way proudly.#someone/PRON turn/VERB to/ADP face/VERB the/DET other/ADJ way/NOUN proudly/ADV#0.0#0.0
+a person changes direction proudly.#a/DET person/NOUN change/VERB direction/NOUN proudly/ADV#0.0#0.0

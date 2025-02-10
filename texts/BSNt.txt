@@ -1,0 +1,3 @@
+someone is being seated.#someone/PRON is/AUX being/AUX seat/VERB#0.0#0.0
+someone is sitting down.#someone/PRON is/AUX sit/VERB down/ADV#0.0#0.0
+a person is being seated.#a/DET person/NOUN is/AUX being/AUX seat/VERB#0.0#0.0

@@ -1,0 +1,5 @@
+a person is walking sadly.#a/DET person/NOUN is/AUX walk/VERB sadly/ADV#0.0#0.0
+someone is taking a walk sadly.#someone/PRON is/AUX take/VERB a/DET walk/NOUN sadly/ADV#0.0#0.0
+someone is walking sadly.#someone/PRON is/AUX walk/VERB sadly/ADV#0.0#0.0
+a sad person is walking.#a/DET sad/ADJ person/NOUN is/AUX walk/VERB#0.0#0.0
+a sad person walks.#a/DET sad/ADJ person/NOUN walk/VERB#0.0#0.0

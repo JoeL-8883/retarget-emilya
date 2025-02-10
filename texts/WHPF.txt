@@ -1,0 +1,12 @@
+a panicked person is walking with something in their hand.#a/DET panicked/ADJ person/NOUN is/AUX walk/VERB with/ADP something/PRON in/ADP their/DET hand/NOUN#0.0#0.0
+a person is walking panickedly with something in their hand.#a/DET person/NOUN is/AUX walk/VERB panickedly/ADV with/ADP something/PRON in/ADP their/DET hand/NOUN#0.0#0.0
+a panicked person is walking whilst holding something.#a/DET panicked/ADJ person/NOUN is/AUX walk/VERB whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+a person walks panickedly whilst holding something.#a/DET person/NOUN walk/VERB panickedly/ADV whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+someone is walking panickedly whilst holding something.#someone/PRON is/AUX walk/VERB panickedly/ADV whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+someone panicked holding something walks.#someone/PRON panicked/ADJ hold/VERB something/PRON walk/VERB#0.0#0.0
+a fearful person is walking with something in their hand.#a/DET fearful/ADJ person/NOUN is/AUX walk/VERB with/ADP something/PRON in/ADP their/DET hand/NOUN#0.0#0.0
+a person is walking fearfully with something in their hand.#a/DET person/NOUN is/AUX walk/VERB fearfully/ADV with/ADP something/PRON in/ADP their/DET hand/NOUN#0.0#0.0
+a fearful person is walking whilst holding something.#a/DET fearful/ADJ person/NOUN is/AUX walk/VERB whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+a person walks fearfully whilst holding something.#a/DET person/NOUN walk/VERB fearfully/ADV whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+someone is walking fearfully whilst holding something.#someone/PRON is/AUX walk/VERB fearfully/ADV whilst/SCONJ hold/VERB something/PRON#0.0#0.0
+someone fearful holding something walks.#someone/PRON fearful/ADJ hold/VERB something/PRON walk/VERB#0.0#0.0

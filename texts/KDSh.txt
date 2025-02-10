@@ -1,0 +1,3 @@
+an ashamed person knocks.#an/DET ashamed/ADJ person/NOUN knock/VERB#0.0#0.0
+a person knocks shamefully.#a/DET person/NOUN knock/VERB shamefully/ADV#0.0#0.0
+someone knocks shamefully.#someone/PRON knock/VERB shamefully/ADV#0.0#0.0

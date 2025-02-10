@@ -3,6 +3,7 @@ import shutil
 import argparse
 import sys
 import random
+from util import shorten_emotion
 
 '''
 Copy all the BvH files into a single directory, and write captions for each motion.
@@ -29,14 +30,18 @@ counter = 1
 
 # Create captions (descriptions for each motion) and texts (generic descriptions of each type of motion)
 captions_dir = os.path.join(outputdir, 'captions')
-texts_dir = os.path.join(outputdir, 'texts')
+if not os.path.exists(captions_dir):
+    os.makedirs(captions_dir)
+
+texts_dir = os.path.join(outputdir, 'texts') # this should already exist
+
 
 # Get the motions in the input directory
 emilya_motions = os.listdir(input_dir) # the different types of motions, i.e. SW
 
 # Iterate through each of the motions, SW, BS, CS, etc.
 for motion in emilya_motions:       
-    if motion.endswith('.DS_Store'):
+    if motion.endswith('.DS_Store') or motion == 'SDBS' or motion == 'CS':
         continue
     else:
         motion_dir = os.path.join(input_dir, motion)
@@ -70,26 +75,22 @@ for motion in emilya_motions:
                         
                         ''' Create captions each motion '''
                         # Get location of relevant descriptions
-                        emotion_caption = motion+emotion+'.txt' # i.e. SWangry.txt
+                        emotion_abbv = shorten_emotion(emotion)
+                        emotion_caption = motion+emotion_abbv+'.txt' # i.e. SWangry.txt
                         text_dir = os.path.join(texts_dir, emotion_caption)
                             
                         with open(text_dir, 'r') as f:
                             lines = f.readlines()
 
-                        captions = []
-                        # Select 3 random captions
-                        for i in range(3):
-                            caption = random.choice(lines).strip()
-                            lines.remove(caption) # Ensure caption is not reused
-                            captions.append(caption)
-                        
+                        captions = random.sample(lines, 3)
+         
                         # Write captions to file
                         caption_filename = number + '.txt'
                         caption_file = os.path.join(captions_dir, caption_filename)
 
                         with open(caption_file, 'w') as f:
                             for c in captions:
-                                f.write(caption + '\n')
+                                f.write(c.strip() + '\n')
 
                         counter += 1
 
