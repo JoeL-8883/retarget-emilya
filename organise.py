@@ -7,6 +7,8 @@ from util import shorten_emotion
 
 '''
 Copy all the BvH files into a single directory, and write captions for each motion.
+To convert all BvH files to a CSV, see the repo below
+https://github.com/JoeL-8883/bvh-converter
 '''
 
 parser = argparse.ArgumentParser(
@@ -38,6 +40,11 @@ texts_dir = os.path.join(outputdir, 'texts') # this should already exist
 
 # Get the motions in the input directory
 emilya_motions = os.listdir(input_dir) # the different types of motions, i.e. SW
+
+training = []
+validation = []
+testing = []
+all = []
 
 # Iterate through each of the motions, SW, BS, CS, etc.
 for motion in emilya_motions:       
@@ -72,27 +79,64 @@ for motion in emilya_motions:
                         
                         # Copy file
                         shutil.copy(bvh_file, final_destination_raw)
-                        
+
+                        '''Write each motion to the all.txt file'''
+                        all_dir = texts_dir + '/all.txt'
+
+                        with open(all_dir, 'a') as f:
+                            try:
+                                is_empty = len(f.readlines()) == 0
+                            except:
+                                f.write(number + '\n')
+                                all.append(number)
+       
                         ''' Create captions each motion '''
-                        # Get location of relevant descriptions
+                        # Create the name of the file i.e. SWangry.txt
                         emotion_abbv = shorten_emotion(emotion)
-                        emotion_caption = motion+emotion_abbv+'.txt' # i.e. SWangry.txt
-                        text_dir = os.path.join(texts_dir, emotion_caption)
-                            
-                        with open(text_dir, 'r') as f:
+                        emotion_caption = motion+emotion_abbv+'.txt'
+
+                        # Create a directory to write the emotion texts to 
+                        emotion_text_dir = os.path.join(texts_dir, 'texts', emotion_caption)
+                        
+                        with open(emotion_text_dir, 'r') as f:
                             lines = f.readlines()
 
-                        captions = random.sample(lines, 3)
+                        captions = random.sample(lines, 3) # choose three random captions (don't choose the same ones for each motion)
          
                         # Write captions to file
                         caption_filename = number + '.txt'
                         caption_file = os.path.join(captions_dir, caption_filename)
 
-                        with open(caption_file, 'w') as f:
+                        # Write 3 captions to file
+                        with open(caption_file, 'w') as f1:
                             for c in captions:
-                                f.write(c.strip() + '\n')
-
+                                f1.write(c.strip() + '\n')
+    
                         counter += 1
 
-                    
+'''Create a training/validation/test/split'''
+total = len(all)
+train_size = int(0.8 * total)
+val_size = int(0.15 * total)
+
+train = random.sample(all, train_size)
+val = random.sample(list(set(all) - set(train)), val_size)
+test = list(set(all) - set(train) - set(val))
+
+# Write the training, validation, and testing splits to a file
+with (
+    open(os.path.join(texts_dir, 'train.txt'), 'w') as f1,
+    open(os.path.join(texts_dir, 'val.txt'), 'w') as f2,
+    open(os.path.join(texts_dir, 'test.txt'), 'w') as f3,
+    open(os.path.join(texts_dir, 'train_val.txt'), 'w') as f4 
+):
+    for t in train:
+        f1.write(t + '\n')
+    for v in val:
+        f2.write(v + '\n')
+    for te in test:
+        f3.write(te + '\n')
+    for tv in train + val:
+        f4.write(tv + '\n')
+
 print(f"{counter} BvH files copied to {final_destination_raw[:-10]}")
