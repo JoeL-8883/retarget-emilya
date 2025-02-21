@@ -1,6 +1,0 @@
-a panicked person knocks.#a/DET panicked/ADJ person/NOUN knock/VERB#0.0#0.0
-a person knocks panickedly.#a/DET person/NOUN knock/VERB panickedly/ADV#0.0#0.0
-someone knocks panickedly.#someone/PRON knock/VERB panickedly/ADV#0.0#0.0
-a fearful person knocks.#a/DET fearful/ADJ person/NOUN knock/VERB#0.0#0.0
-a person knocks fearfully.#a/DET person/NOUN knock/VERB fearfully/ADV#0.0#0.0
-someone knocks fearfully.#someone/PRON knock/VERB fearfully/ADV#0.0#0.0

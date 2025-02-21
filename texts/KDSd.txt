@@ -1,3 +1,0 @@
-a sad person knocks.#a/DET sad/ADJ person/NOUN knock/VERB#0.0#0.0
-a person knocks sadly.#a/DET person/NOUN knock/VERB sadly/ADV#0.0#0.0
-someone knocks sadly.#someone/PRON knock/VERB sadly/ADV#0.0#0.0

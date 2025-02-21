@@ -1,5 +1,0 @@
-a joyful person sits.#a/DET joyful/ADJ person/NOUN sit/VERB#0.0#0.0
-someone sits down joyfully.#someone/PRON sit/VERB down/ADV joyfully/ADV#0.0#0.0
-someone takes a seat joyfully.#someone/PRON take/VERB a/DET seat/NOUN joyfully/ADV#0.0#0.0
-a person is sitting joyfully.#a/DET person/NOUN is/AUX sit/VERB joyfully/ADV#0.0#0.0
-someone is sitting joyfully.#someone/PRON is/AUX sit/VERB joyfully/ADV#0.0#0.0

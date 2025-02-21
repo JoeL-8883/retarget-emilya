@@ -1,3 +1,0 @@
-a person is walking.#a/DET person/NOUN is/AUX walk/VERB#0.0#0.0
-someone is taking a walk.#someone/PRON is/AUX take/VERB a/DET walk/NOUN#0.0#0.0
-someone is walking.#someone/PRON is/AUX walk/VERB#0.0#0.0

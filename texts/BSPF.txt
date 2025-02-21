@@ -1,6 +1,0 @@
-someone is being seated panickedly.#someone/PRON is/AUX being/AUX seat/VERB panickedly/ADV#0.0#0.0
-someone is sitting down panickedly.#someone/PRON is/AUX sit/VERB down/ADV panickedly/ADV#0.0#0.0
-a panicked person is being seated.#a/DET panicked/ADJ person/NOUN is/AUX being/AUX seat/VERB#0.0#0.0
-someone is being seated fearfully.#someone/PRON is/AUX being/AUX seat/VERB fearfully/ADV#0.0#0.0
-someone is sitting down fearfully.#someone/PRON is/AUX sit/VERB down/ADV fearfully/ADV#0.0#0.0
-a fearful person is being seated.#a/DET fearful/ADJ person/NOUN is/AUX being/AUX seat/VERB#0.0#0.0

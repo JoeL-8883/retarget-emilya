@@ -1,3 +1,0 @@
-a person moves books from one side to another.#a/DET person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET#0.0#0.0
-someone moves books from one side to another.#someone/PRON move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET#0.0#0.0
-a person shifts books.#a/DET person/NOUN shift/VERB books/NOUN#0.0#0.0

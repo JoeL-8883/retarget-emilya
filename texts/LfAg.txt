@@ -1,3 +1,0 @@
-an angry person picks up something.#an/DET angry/ADJ person/NOUN pick/VERB up/ADP something/PRON#0.0#0.0
-someone lifts an object angrily.#someone/PRON lift/VERB an/DET object/NOUN angrily/ADV#0.0#0.0
-a person picks something up angrily.#a/DET person/NOUN pick/VERB something/PRON up/ADP angrily/ADV#0.0#0.0

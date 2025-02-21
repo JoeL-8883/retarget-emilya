@@ -1,8 +1,0 @@
-a panicked person turns around.#a/DET panicked/ADJ person/NOUN turn/VERB around/ADV#0.0#0.0
-a person turns around panickedly.#a/DET person/NOUN turn/VERB around/ADV panickedly/ADV#0.0#0.0
-someone turns to face the other way panickedly.#someone/PRON turn/VERB to/ADP face/VERB the/DET other/ADJ way/NOUN panickedly/ADV#0.0#0.0
-a person changes direction panickedly.#a/DET person/NOUN change/VERB direction/NOUN panickedly/ADV#0.0#0.0
-a fearful person turns around.#a/DET fearful/ADJ person/NOUN turn/VERB around/ADV#0.0#0.0
-a person turns around fearfully.#a/DET person/NOUN turn/VERB around/ADV fearfully/ADV#0.0#0.0
-someone turns to face the other way fearfully.#someone/PRON turn/VERB to/ADP face/VERB the/DET other/ADJ way/NOUN fearfully/ADV#0.0#0.0
-a person changes direction fearfully.#a/DET person/NOUN change/VERB direction/NOUN fearfully/ADV#0.0#0.0

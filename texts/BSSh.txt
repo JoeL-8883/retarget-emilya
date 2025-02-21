@@ -1,3 +1,0 @@
-someone is being seated shamefully.#someone/PRON is/AUX being/AUX seat/VERB shamefully/ADV#0.0#0.0
-someone is sitting down shamefully.#someone/PRON is/AUX sit/VERB down/ADV shamefully/ADV#0.0#0.0
-an ashamed person is being seated.#an/DET ashamed/ADJ person/NOUN is/AUX being/AUX seat/VERB#0.0#0.0

@@ -1,5 +1,0 @@
-a person is walking angrily.#a/DET person/NOUN is/AUX walk/VERB angrily/ADV#0.0#0.0
-someone is taking a walk angrily.#someone/PRON is/AUX take/VERB a/DET walk/NOUN angrily/ADV#0.0#0.0
-someone is walking angrily.#someone/PRON is/AUX walk/VERB angrily/ADV#0.0#0.0
-a angry person is walking.#a/DET angry/ADJ person/NOUN is/AUX walk/VERB#0.0#0.0
-a angry person walks.#a/DET angry/ADJ person/NOUN walk/VERB#0.0#0.0

@@ -1,3 +1,0 @@
-someone is being seated anxiously.#someone/PRON is/AUX being/AUX seat/VERB anxiously/ADV#0.0#0.0
-someone is sitting down anxiously.#someone/PRON is/AUX sit/VERB down/ADV anxiously/ADV#0.0#0.0
-an anxious person is being seated.#an/DET anxious/ADJ person/NOUN is/AUX being/AUX seat/VERB#0.0#0.0

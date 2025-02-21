@@ -1,3 +1,0 @@
-a joyful person moves books from one side to another.#a/DET joyful/ADJ person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET#0.0#0.0
-a person moves books from one side to another joyfully.#a/DET person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET joyfully/ADV#0.0#0.0
-someone moves books from one side to another joyfully.#someone/PRON move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET joyfully/ADV#0.0#0.0

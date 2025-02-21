@@ -1,3 +1,0 @@
-someone throws something sadly.#someone/PRON throw/VERB something/PRON sadly/ADV#0.0#0.0
-a sad person throws an object.#a/DET sad/ADJ person/NOUN throw/VERB an/DET object/NOUN#0.0#0.0
-someone tosses something sadly.#someone/PRON toss/VERB something/PRON sadly/ADV#0.0#0.0

@@ -1,5 +1,0 @@
-a sad person sits.#a/DET sad/ADJ person/NOUN sit/VERB#0.0#0.0
-someone sits down sadly.#someone/PRON sit/VERB down/ADV sadly/ADV#0.0#0.0
-someone takes a seat sadly.#someone/PRON take/VERB a/DET seat/NOUN sadly/ADV#0.0#0.0
-a person is sitting sadly.#a/DET person/NOUN is/AUX sit/VERB sadly/ADV#0.0#0.0
-someone is sitting sadly.#someone/PRON is/AUX sit/VERB sadly/ADV#0.0#0.0

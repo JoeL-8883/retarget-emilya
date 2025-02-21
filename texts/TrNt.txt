@@ -1,3 +1,0 @@
-a person turns around.#a/DET person/NOUN turn/VERB around/ADV#0.0#0.0
-someone turns to face the other way.#someone/PRON turn/VERB to/ADP face/VERB the/DET other/ADJ way/NOUN#0.0#0.0
-a person changes direction.#a/DET person/NOUN change/VERB direction/NOUN#0.0#0.0

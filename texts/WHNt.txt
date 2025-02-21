@@ -1,5 +1,0 @@
-a person is walking with something in their hand.#a/DET person/NOUN is/AUX walk/VERB with/ADP something/PRON in/ADP their/DET hand/NOUN#0.0#0.0
-a person is walking whilst holding something.#a/DET person/NOUN is/AUX walk/VERB whilst/SCONJ hold/VERB something/PRON#0.0#0.0
-someone is taking a walk with something in their hand.#someone/PRON is/AUX take/VERB a/DET walk/NOUN with/ADP something/PRON in/ADP their/DET hand/NOUN#0.0#0.0
-someone is walking whilst holding something.#someone/PRON is/AUX walk/VERB whilst/SCONJ hold/VERB something/PRON#0.0#0.0
-someone holding something walks.#someone/PRON hold/VERB something/PRON walk/VERB#0.0#0.0

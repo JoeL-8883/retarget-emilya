@@ -1,3 +1,0 @@
-a sad person picks up something.#a/DET sad/ADJ person/NOUN pick/VERB up/ADP something/PRON#0.0#0.0
-someone lifts an object sadly.#someone/PRON lift/VERB an/DET object/NOUN sadly/ADV#0.0#0.0
-a person picks something up sadly.#a/DET person/NOUN pick/VERB something/PRON up/ADP sadly/ADV#0.0#0.0

@@ -1,3 +1,0 @@
-a sad person walks while holding something then turns around.#a/DET sad/ADJ person/NOUN walk/VERB while/SCONJ hold/VERB something/PRON then/ADV turn/VERB around/ADV#0.0#0.0
-someone sadly walks while carrying something and then turns around.#someone/PRON sadly/ADV walk/VERB while/SCONJ carry/VERB something/PRON and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
-a sad person walks forward holding an object before turning around.#a/DET sad/ADJ person/NOUN walk/VERB forward/ADV hold/VERB an/DET object/NOUN before/ADP turn/VERB around/ADV#0.0#0.0

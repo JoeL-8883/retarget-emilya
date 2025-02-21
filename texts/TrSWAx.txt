@@ -1,3 +1,0 @@
-an anxious person walks then turns around.#an/DET anxious/ADJ person/NOUN walk/VERB then/ADV turn/VERB around/ADV#0.0#0.0
-someone walks anxiously forward and then turns back.#someone/PRON walk/VERB anxiously/ADV forward/ADV and/CCONJ then/ADV turn/VERB back/ADV#0.0#0.0
-an anxious person moves ahead before turning around.#an/DET anxious/ADJ person/NOUN move/VERB ahead/ADV before/ADP turn/VERB around/ADV#0.0#0.0

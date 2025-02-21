@@ -1,5 +1,0 @@
-a person is walking joyfully.#a/DET person/NOUN is/AUX walk/VERB joyfully/ADV#0.0#0.0
-someone is taking a walk joyfully.#someone/PRON is/AUX take/VERB a/DET walk/NOUN joyfully/ADV#0.0#0.0
-someone is walking joyfully.#someone/PRON is/AUX walk/VERB joyfully/ADV#0.0#0.0
-a joyful person is walking.#a/DET joyful/ADJ person/NOUN is/AUX walk/VERB#0.0#0.0
-a joyful person walks.#a/DET joyful/ADJ person/NOUN walk/VERB#0.0#0.0

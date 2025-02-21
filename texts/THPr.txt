@@ -1,3 +1,0 @@
-someone throws something proudly.#someone/PRON throw/VERB something/PRON proudly/ADV#0.0#0.0
-a proud person throws an object.#a/DET proud/ADJ person/NOUN throw/VERB an/DET object/NOUN#0.0#0.0
-someone tosses something proudly.#someone/PRON toss/VERB something/PRON proudly/ADV#0.0#0.0

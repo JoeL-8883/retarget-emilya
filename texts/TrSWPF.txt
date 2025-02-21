@@ -1,6 +1,0 @@
-a panicked person walks then turns around.#a/DET panicked/ADJ person/NOUN walk/VERB then/ADV turn/VERB around/ADV#0.0#0.0
-someone walks panickedly forward and then turns back.#someone/PRON walk/VERB panickedly/ADV forward/ADV and/CCONJ then/ADV turn/VERB back/ADV#0.0#0.0
-a panicked person moves ahead before turning around.#a/DET panicked/ADJ person/NOUN move/VERB ahead/ADV before/ADP turn/VERB around/ADV#0.0#0.0
-a fearful person walks then turns around.#a/DET fearful/ADJ person/NOUN walk/VERB then/ADV turn/VERB around/ADV#0.0#0.0
-someone walks fearfully forward and then turns back.#someone/PRON walk/VERB fearfully/ADV forward/ADV and/CCONJ then/ADV turn/VERB back/ADV#0.0#0.0
-a fearful person moves ahead before turning around.#a/DET fearful/ADJ person/NOUN move/VERB ahead/ADV before/ADP turn/VERB around/ADV#0.0#0.0

@@ -1,3 +1,0 @@
-a proud person walks then turns around.#a/DET proud/ADJ person/NOUN walk/VERB then/ADV turn/VERB around/ADV#0.0#0.0
-someone walks proudly forward and then turns back.#someone/PRON walk/VERB proudly/ADV forward/ADV and/CCONJ then/ADV turn/VERB back/ADV#0.0#0.0
-a proud person moves ahead before turning around.#a/DET proud/ADJ person/NOUN move/VERB ahead/ADV before/ADP turn/VERB around/ADV#0.0#0.0

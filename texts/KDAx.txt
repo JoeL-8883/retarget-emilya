@@ -1,3 +1,0 @@
-an anxious person knocks.#an/DET anxious/ADJ person/NOUN knock/VERB#0.0#0.0
-a person knocks anxiously.#a/DET person/NOUN knock/VERB anxiously/ADV#0.0#0.0
-someone knocks anxiously.#someone/PRON knock/VERB anxiously/ADV#0.0#0.0

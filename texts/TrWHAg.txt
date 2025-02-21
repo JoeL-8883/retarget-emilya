@@ -1,3 +1,0 @@
-an angry person walks while holding something then turns around.#an/DET angry/ADJ person/NOUN walk/VERB while/SCONJ hold/VERB something/PRON then/ADV turn/VERB around/ADV#0.0#0.0
-someone angrily walks while carrying something and then turns around.#someone/PRON angrily/ADV walk/VERB while/SCONJ carry/VERB something/PRON and/CCONJ then/ADV turn/VERB around/ADV#0.0#0.0
-an angry person walks forward holding an object before turning around.#an/DET angry/ADJ person/NOUN walk/VERB forward/ADV hold/VERB an/DET object/NOUN before/ADP turn/VERB around/ADV#0.0#0.0

@@ -1,3 +1,0 @@
-someone throws something shamefully.#someone/PRON throw/VERB something/PRON shamefully/ADV#0.0#0.0
-an ashamed person throws an object.#an/DET ashamed/ADJ person/NOUN throw/VERB an/DET object/NOUN#0.0#0.0
-someone tosses something shamefully.#someone/PRON toss/VERB something/PRON shamefully/ADV#0.0#0.0

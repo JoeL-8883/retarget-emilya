@@ -1,3 +1,0 @@
-someone throws something anxiously.#someone/PRON throw/VERB something/PRON anxiously/ADV#0.0#0.0
-an anxious person throws an object.#an/DET anxious/ADJ person/NOUN throw/VERB an/DET object/NOUN#0.0#0.0
-someone tosses something anxiously.#someone/PRON toss/VERB something/PRON anxiously/ADV#0.0#0.0

@@ -92,7 +92,7 @@ elif folder_in:
         if is_filetype(file_dir, filename, 'npy'):
             file_in = np.load(file_dir)
             check_file_shape(file_in)
-            create_animation(file_in, filename, fps=60, frame_skip=2)
+            create_animation(file_in, filename, fps=60, frame_skip=1)
     print("Animations created.")
 else:
     print("Error: no file or folder provided. To enter a file use -f {directory}, to enter a folder use -d {directory}.")

@@ -1,3 +1,0 @@
-an anxious person moves books from one side to another.#an/DET anxious/ADJ person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET#0.0#0.0
-a person moves books from one side to another anxiously.#a/DET person/NOUN move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET anxiously/ADV#0.0#0.0
-someone moves books from one side to another anxiously.#someone/PRON move/VERB books/NOUN from/ADP one/DET side/NOUN to/ADP another/DET anxiously/ADV#0.0#0.0

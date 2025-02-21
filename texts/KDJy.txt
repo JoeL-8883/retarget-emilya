@@ -1,3 +1,0 @@
-a joyful person knocks.#a/DET joyful/ADJ person/NOUN knock/VERB#0.0#0.0
-a person knocks joyfully.#a/DET person/NOUN knock/VERB joyfully/ADV#0.0#0.0
-someone knocks joyfully.#someone/PRON knock/VERB joyfully/ADV#0.0#0.0

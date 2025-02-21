@@ -1,5 +1,0 @@
- a person is walking proudly.#a/DET person/NOUN is/AUX walk/VERB proudly/ADV#0.0#0.0
-someone is taking a walk proudly.#someone/PRON is/AUX take/VERB a/DET walk/NOUN proudly/ADV#0.0#0.0
-someone is walking proudly.#someone/PRON is/AUX walk/VERB proudly/ADV#0.0#0.0
-a proud person is walking.#a/DET proud/ADJ person/NOUN is/AUX walk/VERB#0.0#0.0
-a proud person walks.#a/DET proud/ADJ person/NOUN walk/VERB#0.0#0.0

@@ -114,6 +114,8 @@ for motion in emilya_motions:
     
                         counter += 1
 
+print("Captions written.")
+
 '''Create a training/validation/test/split'''
 total = len(all)
 train_size = int(0.8 * total)
@@ -138,5 +140,5 @@ with (
         f3.write(te + '\n')
     for tv in train + val:
         f4.write(tv + '\n')
-
-print(f"{counter} BvH files copied to {final_destination_raw[:-10]}")
+print("Assigned training, validation, and testing splits.")
+print(f"{counter} BvH files copied to {final_destination_raw[:-10]}.")

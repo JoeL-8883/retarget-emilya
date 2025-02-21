@@ -1,5 +1,0 @@
-a person is walking anxiously.#a/DET person/NOUN is/AUX walk/VERB anxiously/ADV#0.0#0.0
-someone is taking a walk anxiously.#someone/PRON is/AUX take/VERB a/DET walk/NOUN anxiously/ADV#0.0#0.0
-someone is walking anxiously.#someone/PRON is/AUX walk/VERB anxiously/ADV#0.0#0.0
-a anxious person is walking.#a/DET anxious/ADJ person/NOUN is/AUX walk/VERB#0.0#0.0
-a anxious person walks.#a/DET anxious/ADJ person/NOUN walk/VERB#0.0#0.0
