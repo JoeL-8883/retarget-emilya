@@ -27,3 +27,10 @@ https://github.com/tekulvw/bvh-converter
 
 6. **Integrate into HumanML3D**  
    Replace the existing data in HumanML3D with the newly processed Emilya data.
+
+7. **(Optional) Visualise the data**
+   To animate the motion data use either
+   ```python
+      python animate.py ['directory of motion sequences']
+   ```
+   Or use the notebook `visualise.ipnyb`
