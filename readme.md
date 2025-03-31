@@ -6,12 +6,10 @@ Follow the steps below to integrate the Emilya dataset into HumanML3D:
    Request the Emilya dataset from Catherine Pelachaud. catherine.pelachaud@sorbonne-universite.fr
 
 2. **Extract Motion Data Hierarchy**  
-    To extract the BVH motion data from the Emilya hierarchy, run 
+    To extract the BVH motion data from the Emilya hierarchy, run `organise.py`.  This script also assigns captions and splits the data into training, validation, and testing sets.
 ```python
    python organise.py '[directory to BVH files]'
 ```
-    This script also assigns captions and splits the data into training, validation, and testing sets.
-
 3. **Convert BVH to CSV**  
    Use the conversion scripts by tekulvw to convert the BVH files to CSV format.
 https://github.com/tekulvw/bvh-converter
